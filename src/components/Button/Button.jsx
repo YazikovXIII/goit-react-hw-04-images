@@ -6,5 +6,5 @@ export const LoadMoreButton = styled.button`
   border: none;
   border-radius: 5px;
   width: 120px;
-  height: 25px;
+  height: 50px;
 `;
